@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Data (regenerated at runtime)
+*.db
+*.sqlite
+*.sqlite3
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
